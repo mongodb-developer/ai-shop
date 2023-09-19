@@ -166,9 +166,7 @@ npm run dev
 Go to the suggested vite url to browse application:
 
 
-## 🛑 Desclaimer 🛑
-
+## 🛑 Disclaimer 🛑
 Use at your own risk. Not an official MongoDB product.
-
 
 
