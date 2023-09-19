@@ -103,7 +103,7 @@ exports = async function(changeEvent) {
  
 We need to ingest the data under local directory `data`:
 1. `data/ai_shop.categories.json` into collection named `categories` (hosting the possible categories in the shop).
-1. `data/ai_shop.products.json` into collection named `categories` (hosting the possible categories in the shop).
+1. `data/ai_shop.products.json` into collection named `products` (hosting the products in the shop).
 
 We can use tools like `mongoimport` or compass to import those files. Or we can take the content and "copy" into "Data Explorer" > "INSERT DOCUMENT" tab:
 
