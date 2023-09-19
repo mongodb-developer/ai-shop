@@ -16,14 +16,15 @@ The bottom section is showing the 3 fundemantal sections that the application is
 1. Atlas Cluster (free cluster is eligible)
 1. App Services Application (eg. `AI-Shop`) to Host triggers and secrets. Make sure it is linked 
 1. Open AI account with API Access
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+   ![OpenAI](https://www.mongodb.com/developer/_next/image/?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt39790b633ee0d5a7%2Fblt35c951800e86f9b2%2F64931c80f7411b27b437e181%2F5.png&w=2048&q=75)
 
 ## Project Setup
 
 ### Step 1
 In your App Services application, under "Values",  create the following Secret `openAIKey` with your OPEN AI API key:
-
+![Values](https://www.mongodb.com/developer/_next/image/?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt39790b633ee0d5a7%2Fblt5e3daa9f6d369a05%2F64931c66207042ceb986e0ff%2F4.png&w=2048&q=75)
 Create a linked value called `OpenAIKey` and link to the secret
+
 
 ### Step 2 
 
@@ -100,11 +101,23 @@ exports = async function(changeEvent) {
 ```
 - Verify that the function runs under "SYSTEM" context after saving the trigger.
 
-### Step 4 - Create Vector index
+### Step 4 - Ingest Data and Create Vector index
+
+### Ingest the data
+ 
+We need to ingest the data under local directory `data`:
+1. `data/ai_shop.categories.json` into collection named `categories` (hosting the possible categories in the shop).
+1. `data/ai_shop.products.json` into collection named `categories` (hosting the possible categories in the shop).
+
+We can use tools like `mongoimport` or compass to import those files. Or we can take the content and "copy" into "Data Explorer" > "INSERT DOCUMENT" tab:
+
+Once data is ingested the trigger should set "embeddings" field under each product.
 
 Create an Atlas Search index by going to the Cluster "Search" tab and specify a new index on:
 - Database : `ai_shop`
 - Collection : `products`
+  ![Search](https://www.mongodb.com/developer/_next/image/?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt39790b633ee0d5a7%2Fblt718e89ebafd68b26%2F64931d7ecc30bb78b6b072c7%2F10.png&w=2048&q=75)
+  
 
 Use "JSON Editor" and specify a "defualt" index:
 ```
@@ -124,15 +137,7 @@ Use "JSON Editor" and specify a "defualt" index:
 
 Create the index and make sure it is "Active".
 
-### Ingest the data
- 
-We need to ingest the data under local directory `data`:
-1. `data/ai_shop.categories.json` into collection named `categories` (hosting the possible categories in the shop).
-1. `data/ai_shop.products.json` into collection named `categories` (hosting the possible categories in the shop).
 
-We can use tools like `mongoimport` or compass to import those files. Or we can take the content and "copy" into "Data Explorer" > "INSERT DOCUMENT" tab:
-
-Once data is ingested the trigger should set "embeddings" field under each product.
 
 ### Step 5 - Setup application
 
@@ -165,7 +170,7 @@ npm run dev
 Go to the suggested vite url to browse application:
 
 
-## Desclaimer
+## 🛑 Desclaimer 🛑
 
 Use at your own risk. Not an official MongoDB product.
 
