@@ -53,7 +53,7 @@ exports = async function(changeEvent) {
                 'Content-Type': ['application/json']
             },
             body: JSON.stringify({
-                input: `${doc.title} - #{doc.description}`,
+                input: `${doc.title} - ${doc.description}`,
                 model: "text-embedding-ada-002"
             })
         });
