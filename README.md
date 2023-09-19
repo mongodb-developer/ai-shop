@@ -1,41 +1,37 @@
-# AI-Shop Demo
+# 🛍️ AI-Shop Demo
 
-This is a small web application to show case [Atlas Vector search](https://www.mongodb.com/products/platform/atlas-vector-search) with [Langchain JS](https://js.langchain.com/docs/get_started/introduction) and Open AI.
+Welcome to the AI-Shop demo! Dive into the synergy of [Atlas Vector Search](https://www.mongodb.com/products/platform/atlas-vector-search), [Langchain JS](https://js.langchain.com/docs/get_started/introduction), and OpenAI.
 
-The Application has a product catalog and an AI assistant that uses LangChain and Open AI to provide the user products based on lists/reciepes or any unstructred requests.
+## 🌟 **Features**
+- **Product Catalog**: Display of items.
+- **AI Assistant**: Using LangChain and OpenAI, this assistant provides product suggestions based on varied inputs like recipes or ambiguous requests.
 
-The bottom section is showing the 3 fundemantal sections that the application is doing :
-1. Create a prompt with all the necessary context to the LLM
-1. Extract data into a predifined format and enrich with queryable embeddings
-1. Generate X MongoDB vector search aggregations and reshapes to present the relevant results.
+## 🚀 **Workflow**
+1. Craft a prompt for LLM.
+2. Format data and enhance with embeddings.
+3. Produce MongoDB vector search aggregations to display relevant results.
 
-
-# Requirments 
-
-1. Atlas Project
-1. Atlas Cluster (free cluster is eligible)
-1. App Services Application (eg. `AI-Shop`) to Host triggers and secrets. Make sure it is linked 
-1. Open AI account with API Access
+## 🛠️ **Requirements**
+- Atlas Project
+- Atlas Cluster (free cluster works!)
+- App Services Application (e.g., `AI-Shop`). Ensure linkage.
+- OpenAI account with API access.
    ![OpenAI](https://www.mongodb.com/developer/_next/image/?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt39790b633ee0d5a7%2Fblt35c951800e86f9b2%2F64931c80f7411b27b437e181%2F5.png&w=2048&q=75)
-
-## Project Setup
-
-### Step 1
-In your App Services application, under "Values",  create the following Secret `openAIKey` with your OPEN AI API key:
+   
+## 🔧 **Project Setup**
+### **Step 1: Secrets and Values**
+1. Navigate to your App Services application.
+2. Under "Values", create a secret named `openAIKey` with your OPEN AI API key.
 ![Values](https://www.mongodb.com/developer/_next/image/?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fblt39790b633ee0d5a7%2Fblt5e3daa9f6d369a05%2F64931c66207042ceb986e0ff%2F4.png&w=2048&q=75)
-Create a linked value called `OpenAIKey` and link to the secret
+3. Create a linked value named `OpenAIKey` and link to the secret.
 
+### **Step 2: Database Setup**
+1. Create a Database trigger on `insert` for Open AI embeddings.
+   - Database: `ai_shop`
+   - Collection: `products`
+### **Function: calcEmbeddings**
 
-### Step 2 
-
-Create a Database trigger  on `insert` to place Open AI embeddings on each product we will ingest.
-
-- Database : `ai_shop`
-- Collection : `products`
-
-### function `calcEmbeedings`
-
-```
+```javascript
 exports = async function(changeEvent) {
     // Get the full document from the change event.
     const doc = changeEvent.fullDocument;
