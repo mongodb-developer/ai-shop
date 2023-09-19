@@ -106,7 +106,7 @@ We need to ingest the data under local directory `data`:
 1. `data/ai_shop.products.json` into collection named `products` (hosting the products in the shop).
 
 We can use tools like `mongoimport` or compass to import those files. Or we can take the content and "copy" into "Data Explorer" > "INSERT DOCUMENT" tab:
-
+![insert](data/categories.png)
 Once data is ingested the trigger should set "embeddings" field under each product.
 
 Create an Atlas Search index by going to the Cluster "Search" tab and specify a new index on:
