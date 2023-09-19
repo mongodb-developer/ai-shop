@@ -164,7 +164,7 @@ npm run dev
 ```
 
 Go to the suggested vite url to browse application:
-![Ai-Shop](data/AI-Shop)
+![Ai-Shop](data/AI-Shop.png)
 
 
 ## 🛑 Disclaimer 🛑
