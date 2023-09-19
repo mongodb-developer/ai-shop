@@ -44,7 +44,7 @@ const schema = z.object({
     })),
 }).deepPartial();
 
-const embeddings = new OpenAIEmbeddings({ openAIApiKey: process.env.OPEN_AI_KEY}) //'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'});
+const embeddings = new OpenAIEmbeddings({ openAIApiKey: process.env.OPEN_AI_KEY}) 
 
 // Embeddings function
 const placeEmbeddings = async (documents) => {

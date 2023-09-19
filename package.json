@@ -31,7 +31,7 @@
     "@vitejs/plugin-vue-jsx": "^3.0.1",
     "vite": "^4.3.9"
   },
-  "description": "This is a small web application to show case [Atlas Vector search](https://www.mongodb.com/products/platform/atlas-vector-search) with GPT-4 filter building out of free text search.",
+  "description": "This is a small web application to show case [Atlas Vector search](https://www.mongodb.com/products/platform/atlas-vector-search) with Langchain AI (Open AI).",
   "main": "vite.config.js",
   "keywords": [],
   "author": "",
