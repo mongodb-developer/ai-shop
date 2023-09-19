@@ -5,16 +5,35 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "server": "node -r dotenv/config server/server.js"
   },
   "dependencies": {
+    "@auth0/auth0-vue": "^2.3.1",
+    "@google-cloud/speech": "^6.0.1",
+    "@mendable/search": "^0.0.157",
     "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "langchain": "^0.0.135",
+    "mongodb": "^5.8.1",
+    "react-json-view": "^1.21.3",
+    "realm-web": "^2.0.0",
+    "recordrtc": "^5.6.2",
     "vue": "^3.2.36",
+    "vue-json-viewer": "^3.0.4",
     "vue-range-slider": "^0.6.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
     "@vitejs/plugin-vue-jsx": "^3.0.1",
     "vite": "^4.3.9"
-  }
+  },
+  "description": "This is a small web application to show case [Atlas Vector search](https://www.mongodb.com/products/platform/atlas-vector-search) with GPT-4 filter building out of free text search.",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

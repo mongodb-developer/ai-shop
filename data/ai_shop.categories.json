@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c7"
+  },
+  "categoryName": "Produce"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c8"
+  },
+  "categoryName": "Vegetables"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668cd"
+  },
+  "categoryName": "Poultry"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668ce"
+  },
+  "categoryName": "Spices"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668cc"
+  },
+  "categoryName": "Plant-Based"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c3"
+  },
+  "categoryName": "Pasta"
+},
+{
+  "_id": {
+    "$oid": "64f4521825aa051c82963637"
+  },
+  "categoryName": "Bakery"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c4"
+  },
+  "categoryName": "Dairy"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668ca"
+  },
+  "categoryName": "Leafy Greens"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c5"
+  },
+  "categoryName": "Meat"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668cf"
+  },
+  "categoryName": "Vegan"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c9"
+  },
+  "categoryName": "Canned Goods"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668cb"
+  },
+  "categoryName": "Condiments"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c2"
+  },
+  "categoryName": "Vegetarian"
+},
+{
+  "_id": {
+    "$oid": "64ece4e23f069e5ca21668c6"
+  },
+  "categoryName": "Baking"
+}]
