@@ -81,20 +81,20 @@ app.get('/products', async (req, res) => {
             }
         }
     ]
-    if (req.query.phone){
-        const user = await db.collection('users').findOne({ phone: req.query.phone });
-        if (user){
-            pipeline.unshift({
-                "$search": {
-                    "index": "default",
-                    "knnBeta": {
-                        "vector": user.user_avgEmbedding,
-                        "path": "embeddings",
-                        "k": 100
-                    }
-                }
-            })
-    }
+    // if (req.query.phone){
+    //     const user = await db.collection('users').findOne({ phone: req.query.phone });
+    //     if (user){
+    //         pipeline.unshift({
+    //             "$search": {
+    //                 "index": "default",
+    //                 "knnBeta": {
+    //                     "vector": user.user_avgEmbedding,
+    //                     "path": "embeddings",
+    //                     "k": 100
+    //                 }
+    //             }
+    //         })
+    // }
   
 }
     const products = await db.collection('products').aggregate(pipeline).toArray();
