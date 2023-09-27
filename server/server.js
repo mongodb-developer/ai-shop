@@ -95,8 +95,7 @@ app.get('/products', async (req, res) => {
     //             }
     //         })
     // }
-  
-}
+
     const products = await db.collection('products').aggregate(pipeline).toArray();
     res.json(products);
 });
