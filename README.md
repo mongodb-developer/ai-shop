@@ -4,7 +4,7 @@ Welcome to the AI-Shop demo! Dive into the synergy of [Atlas Vector Search](http
 
 ## 🌟 **Features**
 - **Product Catalog**: Display of items.
-- **AI Assistant**: Using LangChain and OpenAI, this assistant provides product suggestions based on varied inputs like recipes or ambiguous requests.
+- **AI Assistant**: Using LangChain and OpenAI, this assistant provides product suggestions based on varied inputs like recipes or ambiguous requests. With the help of MongoDB Atlas Vector search and dynamic aggregation pipeline we are able to format the results best for the user.
 
 ## 🚀 **Workflow**
 1. Craft a prompt for LLM.
