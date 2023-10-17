@@ -36,8 +36,10 @@
        <div class="products" :class="{ added: catProduct.isAdded }" v-for="catProduct in product.products" :key="product.title">
          <div class="product-info" >
            <h3>{{ catProduct.title }}</h3>
-           <div class="emoji">{{catProduct.emoji}}</div>
-           <p>{{ catProduct.description }}</p>
+           <!-- <div class="emoji">{{catProduct.emoji}}</div> -->
+           <div class="product-detail"><p>{{ catProduct.description }}</p>
+           <img class="product-image" :src="catProduct.imageUrl" />
+          </div>
            <p class="price"><b>price: </b>{{ catProduct.price }}</p>
            <button v-if="!catProduct.isAdded" @click="addToCart(catProduct)">Add to cart</button>
            <button v-else @click="removeFromCart(catProduct)">Remove</button>
@@ -453,6 +455,11 @@ export default {
   border-radius: 50%;
   margin-left: 10px;
 }
+.product-info {
+  padding: 10px;
+ display: flex;
+  flex-direction: column;
+}
 /* .product-info {
   padding: 10px;
   card: 1px solid #ccc;
@@ -463,7 +470,11 @@ export default {
   display: flex;
   flex-direction: column;
   padding: 10px;
+  gap : 10px;
   border-bottom: 1px solid #ccc;
+}
+.products {
+  justify-content: space-around;
 }
 .product-area {
   width: 1200px;
@@ -507,6 +518,17 @@ export default {
   display: flex;
   flex-direction: column;
 
+}
+.product-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 24px;
+  align-self: flex-end;
+}
+.product-detail{
+  display: flex;
+  justify-content: space-between;
 }
 .content-area{
   flex-grow: 1;

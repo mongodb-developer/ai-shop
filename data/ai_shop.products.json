@@ -3,565 +3,727 @@
   "price": "$3.50",
   "description": "Infused with spinach, these sheets add a pop of color and extra nutrients.",
   "category": "Pasta",
-  "emoji": "📗"
+  "emoji": "📗",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-pDvlpR8MWZsZPI3ONAMn6R2N.png?st=2023-10-17T11%3A02%3A29Z&se=2023-10-17T13%3A02%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A54%3A56Z&ske=2023-10-18T09%3A54%3A56Z&sks=b&skv=2021-08-06&sig=zAeqVb831vGXakqtxsTAiVNRzhuJjugfFVdMpS3VdJE%3D"
 },
 {
   "title": "Gluten-Free Lasagna Sheets",
   "price": "$4.00",
   "description": "Perfect for those with gluten intolerance, made with a blend of rice and corn flour.",
   "category": "Pasta",
-  "emoji": "🍚🌽"
+  "emoji": "🍚🌽",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-oQa9e8jGVvO3tuilLnF7Xij1.png?st=2023-10-17T11%3A02%3A36Z&se=2023-10-17T13%3A02%3A36Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T03%3A40%3A25Z&ske=2023-10-18T03%3A40%3A25Z&sks=b&skv=2021-08-06&sig=Vh9nREeLMUVcloJEGGgmE1/LY4ffWHvJwJmU3EtI7X8%3D"
 },
 {
   "title": "Mascarpone",
   "price": "$4.00",
   "description": "Creamy and rich, this cheese adds a luxurious touch to lasagna.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-X8pezzLwhzzuuvRebiM8VfEj.png?st=2023-10-17T11%3A02%3A42Z&se=2023-10-17T13%3A02%3A42Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A39%3A07Z&ske=2023-10-18T06%3A39%3A07Z&sks=b&skv=2021-08-06&sig=YPXp2fgjKziR%2BV8Pqhz4mX/74Gdshhqrcsg7f%2BbokHk%3D"
 },
 {
   "title": "Queso Fresco",
   "price": "$3.00",
   "description": "A mild, crumbly cheese that can be a suitable replacement for ricotta.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-zCGDLlyL8ccM1Mf3o1ptXB18.png?st=2023-10-17T11%3A02%3A50Z&se=2023-10-17T13%3A02%3A50Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A02%3A43Z&ske=2023-10-18T06%3A02%3A43Z&sks=b&skv=2021-08-06&sig=BiH0pWp5EHHfjuVKmoR/cUS5BCzDSltLWBajWw61bzA%3D"
 },
 {
   "title": "Vegetarian Lentil Sauce",
   "price": "$4.00",
   "description": "A meatless option made with cooked lentils that mimics the texture of ground meat.",
   "category": "Vegetarian",
-  "emoji": "🍲"
+  "emoji": "🍲",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-lVqRwhi1c5NZI5DhoUaN8iZj.png?st=2023-10-17T11%3A02%3A57Z&se=2023-10-17T13%3A02%3A57Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A39%3A50Z&ske=2023-10-18T06%3A39%3A50Z&sks=b&skv=2021-08-06&sig=BXNHfEmmMT14aXvYYLzehIuRX1FGl48xG/FIZxykOp8%3D"
 },
 {
   "title": "Turkey Bolognese",
   "price": "$5.00",
   "description": "A leaner alternative to beef, turkey provides a lighter but flavorful taste.",
   "category": "Poultry",
-  "emoji": "🦃"
+  "emoji": "🦃",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-M6fw519IJS3pbx2AbBKLQBqi.png?st=2023-10-17T11%3A03%3A04Z&se=2023-10-17T13%3A03%3A04Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T05%3A29%3A21Z&ske=2023-10-18T05%3A29%3A21Z&sks=b&skv=2021-08-06&sig=gNE3wO71wO0Z9nTDal%2BOMJvvrQijJRLOcjqyyuKRD1o%3D"
 },
 {
   "title": "Mushroom and Walnut Sauce",
   "price": "$5.50",
   "description": "Combining chopped mushrooms and walnuts for a hearty vegetarian filling.",
   "category": "Vegetarian",
-  "emoji": "🍄🥜"
+  "emoji": "🍄🥜",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-1VvkF97xC8rAyepYXXKWyzMO.png?st=2023-10-17T11%3A03%3A10Z&se=2023-10-17T13%3A03%3A10Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T08%3A06%3A47Z&ske=2023-10-18T08%3A06%3A47Z&sks=b&skv=2021-08-06&sig=VQCMbVbxG6ew5kKpIvRgGF1hfhUwcwW43NEzHoE34Yw%3D"
 },
 {
   "title": "Chicken Bolognese",
   "price": "$5.00",
   "description": "Ground chicken offers a different twist on the classic meat sauce.",
   "category": "Poultry",
-  "emoji": "🐔"
+  "emoji": "🐔",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-QXIvHr8TExBVYyFGdQnELcWL.png?st=2023-10-17T11%3A03%3A17Z&se=2023-10-17T13%3A03%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A04%3A39Z&ske=2023-10-18T09%3A04%3A39Z&sks=b&skv=2021-08-06&sig=XnILrgCQ91CpQOt%2BaA2yFWisGlBQ1TJsI%2BbcXANP8hw%3D"
 },
 {
   "title": "Vegan Soy Meat Sauce",
   "price": "$4.50",
   "description": "Made from soy protein, this vegan meat sauce replicates the texture and flavor of traditional meat.",
   "category": "Vegan",
-  "emoji": "🌱"
-},
-{
-  "title": "Tomato Basil Sauce",
-  "price": "$3.50",
-  "description": "A tangy alternative to béchamel, made with fresh tomatoes and basil.",
-  "category": "Vegetarian",
-  "emoji": "🍅"
-},
-{
-  "title": "Pesto Cream Sauce",
-  "price": "$5.50",
-  "description": "A fusion of creamy béchamel and rich basil pesto for a unique flavor.",
-  "category": "Dairy",
-  "emoji": "🍝"
-},
-{
-  "title": "Alfredo Sauce",
-  "price": "$4.50",
-  "description": "A rich and creamy white sauce made with parmesan and butter.",
-  "category": "Dairy",
-  "emoji": "🧈"
-},
-{
-  "title": "Coconut Milk Béchamel",
-  "price": "$4.00",
-  "description": "A dairy-free version of the classic béchamel made with coconut milk.",
-  "category": "Vegan",
-  "emoji": "🥥"
+  "emoji": "🌱",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-9NwhlENdPvLQzl45bT1DfTCR.png?st=2023-10-17T11%3A03%3A23Z&se=2023-10-17T13%3A03%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T18%3A15%3A36Z&ske=2023-10-17T18%3A15%3A36Z&sks=b&skv=2021-08-06&sig=gZjTscHIFyUkZaNSf25QTFFPNxbZwY0UqmzXOoqUdSE%3D"
 },
 {
   "title": "Vegan Cashew Cream Sauce",
   "price": "$5.00",
   "description": "A rich and creamy sauce made from blended cashews as a dairy-free alternative.",
   "category": "Vegan",
-  "emoji": "🥜"
+  "emoji": "🥜",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-pvheEIbxgB2u6OwEPpxNkP2j.png?st=2023-10-17T11%3A03%3A30Z&se=2023-10-17T13%3A03%3A30Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T15%3A54%3A24Z&ske=2023-10-17T15%3A54%3A24Z&sks=b&skv=2021-08-06&sig=HhtNG2Rk3Skcg6Q9r4b5DsMTMO3mGxZoUUvOe1KxnCw%3D"
 },
 {
-  "title": "Kale",
-  "price": "$2.00",
-  "description": "Another leafy green option, kale offers a chewy texture and rich nutrients.",
-  "category": "Leafy Greens",
-  "emoji": "🥬"
-},
-{
-  "title": "Bell Peppers",
-  "price": "$2.50",
-  "description": "Sliced bell peppers in various colors add sweetness and crunch.",
-  "category": "Vegetables",
-  "emoji": "🫑"
-},
-{
-  "title": "Artichoke Hearts",
+  "title": "Tomato Basil Sauce",
   "price": "$3.50",
-  "description": "Tender and flavorful, artichoke hearts bring a Mediterranean twist to the dish.",
-  "category": "Vegetables",
-  "emoji": "🍽️"
+  "description": "A tangy alternative to béchamel, made with fresh tomatoes and basil.",
+  "category": "Vegetarian",
+  "emoji": "🍅",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-rW8ckxOB4ZsxCIdkQJAW9XI5.png?st=2023-10-17T11%3A03%3A37Z&se=2023-10-17T13%3A03%3A37Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T08%3A53%3A00Z&ske=2023-10-18T08%3A53%3A00Z&sks=b&skv=2021-08-06&sig=Sfk8jPrXRK2YbHPw2OGNvO/F9Wt5VDrA73e3mchdw9A%3D"
+},
+{
+  "title": "Pesto Cream Sauce",
+  "price": "$5.50",
+  "description": "A fusion of creamy béchamel and rich basil pesto for a unique flavor.",
+  "category": "Dairy",
+  "emoji": "🍝",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-VFO3SOIYTNuIjeE5seOjqQE6.png?st=2023-10-17T11%3A03%3A43Z&se=2023-10-17T13%3A03%3A43Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A27%3A30Z&ske=2023-10-18T06%3A27%3A30Z&sks=b&skv=2021-08-06&sig=qTiiu0mbmFhj3wHsf45fzKohMqAVBhN5Yj8EcX2QV3E%3D"
+},
+{
+  "title": "Alfredo Sauce",
+  "price": "$4.50",
+  "description": "A rich and creamy white sauce made with parmesan and butter.",
+  "category": "Dairy",
+  "emoji": "🧈",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-BQdGTmhG08IR958ekyAds9u3.png?st=2023-10-17T11%3A03%3A50Z&se=2023-10-17T13%3A03%3A50Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A03%3A43Z&ske=2023-10-18T10%3A03%3A43Z&sks=b&skv=2021-08-06&sig=tfyWiboeXq723Qs7tBtPbH3YGuBihNXhH0gz7MbdIrY%3D"
+},
+{
+  "title": "Coconut Milk Béchamel",
+  "price": "$4.00",
+  "description": "A dairy-free version of the classic béchamel made with coconut milk.",
+  "category": "Vegan",
+  "emoji": "🥥",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-OU22GF413wDqPbacjIS3M1mZ.png?st=2023-10-17T11%3A03%3A57Z&se=2023-10-17T13%3A03%3A57Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T11%3A12%3A22Z&ske=2023-10-18T11%3A12%3A22Z&sks=b&skv=2021-08-06&sig=LvPZ7rgLciUd6EjYU2W7VqplGkO97kd2UVLqHLVwkRk%3D"
 },
 {
   "title": "Spinach",
   "price": "$2.00",
   "description": "Fresh or frozen spinach adds a pop of color and nutrients.",
   "category": "Leafy Greens",
-  "emoji": "🥬"
+  "emoji": "🥬",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-mCgKQB5FIzt0kK04S63KfLQN.png?st=2023-10-17T11%3A04%3A04Z&se=2023-10-17T13%3A04%3A04Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A45%3A12Z&ske=2023-10-18T10%3A45%3A12Z&sks=b&skv=2021-08-06&sig=ovzD4qr844GrTzumbenT%2Bu/YcqERDTN92m6KA7q5MOs%3D"
+},
+{
+  "title": "Bell Peppers",
+  "price": "$2.50",
+  "description": "Sliced bell peppers in various colors add sweetness and crunch.",
+  "category": "Vegetables",
+  "emoji": "🫑",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-46lZJzCfebHeTbDxAGbRPbiz.png?st=2023-10-17T11%3A04%3A10Z&se=2023-10-17T13%3A04%3A10Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A42%3A54Z&ske=2023-10-17T13%3A42%3A54Z&sks=b&skv=2021-08-06&sig=Ft//v2YkAx5wRpGYEfVmrCD6cUhP1fjp6nCa6OHCHKI%3D"
 },
 {
   "title": "Broccoli",
   "price": "$2.50",
   "description": "Small broccoli florets provide texture and a distinct flavor.",
   "category": "Vegetables",
-  "emoji": "🥦"
+  "emoji": "🥦",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-UY5HFAk7n1H3A7Wa10LXkSE2.png?st=2023-10-17T11%3A04%3A17Z&se=2023-10-17T13%3A04%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A57%3A48Z&ske=2023-10-18T06%3A57%3A48Z&sks=b&skv=2021-08-06&sig=SVEqMhcCkhQMSyqvRJFcu9VlDpO5JDiCHIsomeutJuI%3D"
+},
+{
+  "title": "Kale",
+  "price": "$2.00",
+  "description": "Another leafy green option, kale offers a chewy texture and rich nutrients.",
+  "category": "Leafy Greens",
+  "emoji": "🥬",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-PdYBWc6FUDiu2PT94LHzLp2O.png?st=2023-10-17T11%3A04%3A24Z&se=2023-10-17T13%3A04%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A58%3A42Z&ske=2023-10-18T06%3A58%3A42Z&sks=b&skv=2021-08-06&sig=QQF/Y3qYPiiuissmOMyKs9192SAn2xsRUunm6tN1Qiw%3D"
+},
+{
+  "title": "Artichoke Hearts",
+  "price": "$3.50",
+  "description": "Tender and flavorful, artichoke hearts bring a Mediterranean twist to the dish.",
+  "category": "Vegetables",
+  "emoji": "🍽️",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-jem6zsP5VDw7jaVF92NWbK0L.png?st=2023-10-17T11%3A04%3A30Z&se=2023-10-17T13%3A04%3A30Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A34%3A41Z&ske=2023-10-17T13%3A34%3A41Z&sks=b&skv=2021-08-06&sig=QxPdyXQi5NB96cIvs6jH%2B6Oult5P4QQjPzaXPKto2lw%3D"
 },
 {
   "title": "Whole Wheat Lasagna Sheets",
   "price": "$3.00",
   "description": "Made from whole wheat grains, these sheets are healthier and provide a nutty flavor.",
   "category": "Pasta",
-  "emoji": "🌾"
+  "emoji": "🌾",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-y0xkYd57I2DhJwdEPKRCJJ6a.png?st=2023-10-17T11%3A04%3A37Z&se=2023-10-17T13%3A04%3A37Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T12%3A04%3A37Z&ske=2023-10-18T12%3A04%3A37Z&sks=b&skv=2021-08-06&sig=tNZO6%2BMg/6B3vS23BHGuxUJJGDifISundDLY/eOEBOs%3D"
 },
 {
   "title": "Zucchini Slices",
   "price": "$2.50",
   "description": "Thinly sliced zucchini can replace traditional pasta for a low-carb version.",
   "category": "Vegetables",
-  "emoji": "🥒"
+  "emoji": "🥒",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-RPHlQEOzk6ZjY1x08cVwbbGM.png?st=2023-10-17T11%3A04%3A44Z&se=2023-10-17T13%3A04%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T05%3A39%3A37Z&ske=2023-10-18T05%3A39%3A37Z&sks=b&skv=2021-08-06&sig=VTKxGiIOOSDxKX6eJ0z80Gw5mMcCzcmzjVFnqOdiiQs%3D"
 },
 {
   "title": "Eggplant Slices",
   "price": "$2.75",
   "description": "Thin slices of eggplant provide a meaty texture, ideal for vegetarian lasagna.",
   "category": "Vegetables",
-  "emoji": "🍆"
-},
-{
-  "title": "Ground Turkey",
-  "price": "$4.50",
-  "description": "A leaner alternative to beef, turkey provides a lighter but flavorful taste.",
-  "category": "Meat",
-  "emoji": "🦃"
-},
-{
-  "title": "Vegetarian Lentil Mince",
-  "price": "$3.50",
-  "description": "A meatless option made with cooked lentils that mimics the texture of ground meat.",
-  "category": "Vegetarian",
-  "emoji": "🍲"
-},
-{
-  "title": "Mushroom and Walnut Mince",
-  "price": "$5.00",
-  "description": "Combining chopped mushrooms and walnuts for a hearty vegetarian filling.",
-  "category": "Vegetarian",
-  "emoji": "🍄🥜"
-},
-{
-  "title": "Ground Chicken",
-  "price": "$4.00",
-  "description": "Ground chicken offers a different twist on the classic meat sauce.",
-  "category": "Poultry",
-  "emoji": "🐔"
+  "emoji": "🍆",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-03L8WYMrz4H5TE2uIYB8PVNb.png?st=2023-10-17T11%3A04%3A51Z&se=2023-10-17T13%3A04%3A51Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A19%3A36Z&ske=2023-10-17T13%3A19%3A36Z&sks=b&skv=2021-08-06&sig=UFzj7SXZn2yeroWvRUsf3J20Xq9DMOiayUeEjzSX0fk%3D"
 },
 {
   "title": "Vegan Soy Meat Crumbles",
   "price": "$4.50",
   "description": "Made from soy protein, these crumbles replicate the texture and flavor of traditional meat.",
   "category": "Vegan",
-  "emoji": "🥩"
+  "emoji": "🥩",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-aztJIaATE0ZOAIszfwiuAN6Q.png?st=2023-10-17T11%3A04%3A58Z&se=2023-10-17T13%3A04%3A58Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T12%3A06%3A27Z&ske=2023-10-17T12%3A06%3A27Z&sks=b&skv=2021-08-06&sig=ehI1T7AQ4P5IC/0sYHdMNbnODCa4Cf%2Bk86rJmUpTiRo%3D"
 },
 {
-  "title": "Pesto Sauce",
-  "price": "$4.00",
-  "description": "A green, aromatic sauce made from basil, pine nuts, and garlic.",
-  "category": "Canned Goods",
-  "emoji": "🌿"
-},
-{
-  "title": "Marinara Sauce",
-  "price": "$3.50",
-  "description": "A classic Italian tomato sauce with garlic, onions, and herbs.",
-  "category": "Canned Goods",
-  "emoji": "🍅"
-},
-{
-  "title": "Bolognese Sauce",
+  "title": "Mushroom and Walnut Mince",
   "price": "$5.00",
-  "description": "A meat-based sauce simmered with tomatoes, onions, celery, and carrots.",
-  "category": "Canned Goods",
-  "emoji": "🍖🍅🧅🥕"
+  "description": "Combining chopped mushrooms and walnuts for a hearty vegetarian filling.",
+  "category": "Vegetarian",
+  "emoji": "🍄🥜",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-sZonHOJc1KjQAGnUUZKIOgIR.png?st=2023-10-17T11%3A05%3A04Z&se=2023-10-17T13%3A05%3A04Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A57%3A56Z&ske=2023-10-18T10%3A57%3A56Z&sks=b&skv=2021-08-06&sig=oAYIhhRPmIo1fPt86LbUuB%2BLBWF1ykYBaPvmhJDhlf0%3D"
+},
+{
+  "title": "Ground Chicken",
+  "price": "$4.00",
+  "description": "Ground chicken offers a different twist on the classic meat sauce.",
+  "category": "Poultry",
+  "emoji": "🐔",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-VzbS07gPSTYiN71EplHMUjDr.png?st=2023-10-17T11%3A05%3A11Z&se=2023-10-17T13%3A05%3A11Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T03%3A10%3A06Z&ske=2023-10-18T03%3A10%3A06Z&sks=b&skv=2021-08-06&sig=MxxtRomQZtjn%2BplQV1tXSGDHyGCVuWLFbYEoX7LL%2BcA%3D"
+},
+{
+  "title": "Ground Turkey",
+  "price": "$4.50",
+  "description": "A leaner alternative to beef, turkey provides a lighter but flavorful taste.",
+  "category": "Meat",
+  "emoji": "🦃",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-vAaF8VFAN3vutSTZChUn7Klq.png?st=2023-10-17T11%3A05%3A17Z&se=2023-10-17T13%3A05%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T01%3A37%3A23Z&ske=2023-10-18T01%3A37%3A23Z&sks=b&skv=2021-08-06&sig=gRHV6BsitWSXPoWDIDlb8q8tTc7cqDwhGK%2BUB9pZllU%3D"
+},
+{
+  "title": "Vegetarian Lentil Mince",
+  "price": "$3.50",
+  "description": "A meatless option made with cooked lentils that mimics the texture of ground meat.",
+  "category": "Vegetarian",
+  "emoji": "🍲",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-OPzH5HC2PP5aaA06LBVRY8Ld.png?st=2023-10-17T11%3A05%3A26Z&se=2023-10-17T13%3A05%3A26Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A25%3A34Z&ske=2023-10-18T09%3A25%3A34Z&sks=b&skv=2021-08-06&sig=hJmbQ2OTifl%2B%2Bo4ZspdRi5BMSK%2BiRTxL8a/Isr16rQs%3D"
 },
 {
   "title": "Arrabbiata Sauce",
   "price": "$4.00",
   "description": "A spicy tomato sauce made with red chili peppers.",
   "category": "Canned Goods",
-  "emoji": "🌶️🍅"
+  "emoji": "🌶️🍅",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-R9mU4SuRfI9a7ahAIRODYLK4.png?st=2023-10-17T11%3A05%3A33Z&se=2023-10-17T13%3A05%3A33Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T16%3A11%3A29Z&ske=2023-10-17T16%3A11%3A29Z&sks=b&skv=2021-08-06&sig=b7eWdCIrIptui82Eq8oTg0Pb/hVazmjvwAx/BUaPuq0%3D"
 },
 {
-  "title": "Provolone Cheese",
+  "title": "Pesto Sauce",
+  "price": "$4.00",
+  "description": "A green, aromatic sauce made from basil, pine nuts, and garlic.",
+  "category": "Canned Goods",
+  "emoji": "🌿",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-I2OdQyUZ7EWuTgodsxassstH.png?st=2023-10-17T11%3A05%3A40Z&se=2023-10-17T13%3A05%3A40Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T20%3A32%3A37Z&ske=2023-10-17T20%3A32%3A37Z&sks=b&skv=2021-08-06&sig=wX0%2BIWqxQK6NYgbEXSDEvXp2PjejEFMisOB4vbM9HBw%3D"
+},
+{
+  "title": "Marinara Sauce",
   "price": "$3.50",
-  "description": "Semi-hard cheese with a smooth texture, it melts beautifully in dishes.",
-  "category": "Dairy",
-  "emoji": "🧀"
+  "description": "A classic Italian tomato sauce with garlic, onions, and herbs.",
+  "category": "Canned Goods",
+  "emoji": "🍅",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-GDZYrvb2iIrLd0KTyjMRINjY.png?st=2023-10-17T11%3A05%3A47Z&se=2023-10-17T13%3A05%3A47Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A57%3A06Z&ske=2023-10-18T09%3A57%3A06Z&sks=b&skv=2021-08-06&sig=uA9Nrx%2BYm9Cw2smYK3FnjW3Krig14GarhCCgQY437ko%3D"
+},
+{
+  "title": "Bolognese Sauce",
+  "price": "$5.00",
+  "description": "A meat-based sauce simmered with tomatoes, onions, celery, and carrots.",
+  "category": "Canned Goods",
+  "emoji": "🍖🍅🧅🥕",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-NPHGFyxVo3sHNiokNcyvMMgk.png?st=2023-10-17T11%3A05%3A53Z&se=2023-10-17T13%3A05%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T00%3A05%3A14Z&ske=2023-10-18T00%3A05%3A14Z&sks=b&skv=2021-08-06&sig=ZcqzrlkAkozDqC2dvMsSJ%2BHGF8dk61QGObTbpFcuwKE%3D"
 },
 {
   "title": "Cheddar Cheese",
   "price": "$3.00",
   "description": "A popular cheese with a sharp and tangy flavor profile.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-casr3wSG0AjwZX1tjOdJcLPU.png?st=2023-10-17T11%3A06%3A00Z&se=2023-10-17T13%3A06%3A00Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A38%3A23Z&ske=2023-10-17T13%3A38%3A23Z&sks=b&skv=2021-08-06&sig=tmNw%2BUQ/w3rbAJ2HYLtvtx/LmW%2Be%2BGUS2i7Vfa%2Bl1NI%3D"
+},
+{
+  "title": "Provolone Cheese",
+  "price": "$3.50",
+  "description": "Semi-hard cheese with a smooth texture, it melts beautifully in dishes.",
+  "category": "Dairy",
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-fo9dbHxDQ9l1lo358Czqbeuy.png?st=2023-10-17T11%3A06%3A07Z&se=2023-10-17T13%3A06%3A07Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T04%3A49%3A00Z&ske=2023-10-18T04%3A49%3A00Z&sks=b&skv=2021-08-06&sig=Bwn8KjywVzvgcSAaoApqNZ5Q/uSK9ZWkZmHJzAU5blk%3D"
 },
 {
   "title": "Gouda Cheese",
   "price": "$4.50",
   "description": "A Dutch cheese known for its rich and creamy texture.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-eLEhV88w2H6rB5UafzGUfxGi.png?st=2023-10-17T11%3A06%3A13Z&se=2023-10-17T13%3A06%3A13Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A22%3A53Z&ske=2023-10-17T13%3A22%3A53Z&sks=b&skv=2021-08-06&sig=oNANeL0RiYMUlJO6k4ni5lhLlPjIxBG/Sp3SoaaHzZ0%3D"
 },
 {
   "title": "Fontina Cheese",
   "price": "$4.00",
   "description": "A semi-soft cheese with a strong flavor, great for melting.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-nXQKwNXLtFYWVyiLwg4WOtk8.png?st=2023-10-17T11%3A06%3A21Z&se=2023-10-17T13%3A06%3A21Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A40%3A58Z&ske=2023-10-18T10%3A40%3A58Z&sks=b&skv=2021-08-06&sig=Lr5e07A7Zh6wzyJ7iGm1z62/J6CG8yz13wwYv1Ig9ow%3D"
 },
 {
   "title": "Vegan Mozzarella",
   "price": "$5.00",
   "description": "Dairy-free alternative made from nuts or soy, melts similarly to regular mozzarella.",
   "category": "Vegan",
-  "emoji": "🧀"
-},
-{
-  "title": "Cottage Cheese",
-  "price": "$2.50",
-  "description": "A lighter alternative to ricotta, with small curds that provide a similar texture.",
-  "category": "Dairy",
-  "emoji": "🧀"
-},
-{
-  "title": "Goat Cheese",
-  "price": "$4.00",
-  "description": "A tangy and creamy cheese that can provide a unique flavor to lasagna.",
-  "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-DdQOOspPeDyAFIeBNZwjfBbe.png?st=2023-10-17T11%3A06%3A27Z&se=2023-10-17T13%3A06%3A27Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T23%3A46%3A55Z&ske=2023-10-17T23%3A46%3A55Z&sks=b&skv=2021-08-06&sig=oOVfed0IyN9FqngnvEbSEpzMU64ACsjh%2BvznXkwSij0%3D"
 },
 {
   "title": "Mascarpone Cheese",
   "price": "$4.50",
   "description": "An Italian cream cheese with a rich and creamy texture.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-UGnDWWJVH7UCObFOreDvg2nj.png?st=2023-10-17T11%3A06%3A34Z&se=2023-10-17T13%3A06%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A06%3A26Z&ske=2023-10-18T10%3A06%3A26Z&sks=b&skv=2021-08-06&sig=lK1a1wiT7vKmdz959NCbPRo7zFEI0nn4uZj1Hde1wmw%3D"
 },
 {
-  "title": "Tofu Ricotta",
-  "price": "$3.00",
-  "description": "A vegan alternative made from crumbled tofu seasoned with herbs.",
-  "category": "Vegan",
-  "emoji": "🌱"
+  "title": "Cottage Cheese",
+  "price": "$2.50",
+  "description": "A lighter alternative to ricotta, with small curds that provide a similar texture.",
+  "category": "Dairy",
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-yIfGR2ctTXr266Dlk1SNUbJN.png?st=2023-10-17T11%3A06%3A41Z&se=2023-10-17T13%3A06%3A41Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T08%3A02%3A12Z&ske=2023-10-18T08%3A02%3A12Z&sks=b&skv=2021-08-06&sig=os7%2Beb7Shw7sHGFHslLeUkMTK21ZU9UE0g/2eXPapIU%3D"
 },
 {
   "title": "Feta Cheese",
   "price": "$3.50",
   "description": "A crumbly cheese with a salty profile, it can bring a Mediterranean twist to the dish.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-agIWSgTQjKqebptNRJHkYNhS.png?st=2023-10-17T11%3A06%3A47Z&se=2023-10-17T13%3A06%3A47Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A35%3A19Z&ske=2023-10-18T06%3A35%3A19Z&sks=b&skv=2021-08-06&sig=bXxwZ0IdZuXq9S92cYZSkMxrI1DKfXi87B%2By1smf3Pg%3D"
 },
 {
-  "title": "Parmesan cheese",
+  "title": "Tofu Ricotta",
+  "price": "$3.00",
+  "description": "A vegan alternative made from crumbled tofu seasoned with herbs.",
+  "category": "Vegan",
+  "emoji": "🌱",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-UANv6xeIZPfLUsvYqmDe7pWW.png?st=2023-10-17T11%3A06%3A54Z&se=2023-10-17T13%3A06%3A54Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A26%3A42Z&ske=2023-10-18T09%3A26%3A42Z&sks=b&skv=2021-08-06&sig=DWYQuyCzBQGgnoFTYyOAeCco6K7S4YplAYVz%2Bubrtjs%3D"
+},
+{
+  "title": "Goat Cheese",
   "price": "$4.00",
-  "description": "A hard, granular cheese originating from Italy, known for its rich umami flavor.",
+  "description": "A tangy and creamy cheese that can provide a unique flavor to lasagna.",
   "category": "Dairy",
-  "emoji": "🧀"
-},
-{
-  "title": "Pecorino Romano",
-  "price": "$5.00",
-  "description": "A salty, hard cheese made from sheep's milk, perfect for grating over dishes.",
-  "category": "Dairy",
-  "emoji": "🧀"
-},
-{
-  "title": "Asiago Cheese",
-  "price": "$4.50",
-  "description": "Semi-hard cheese with a nutty flavor, great for shaving or grating.",
-  "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-6qdASAUQ0n29fQPcNNuWPBEZ.png?st=2023-10-17T11%3A07%3A01Z&se=2023-10-17T13%3A07%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T04%3A14%3A40Z&ske=2023-10-18T04%3A14%3A40Z&sks=b&skv=2021-08-06&sig=1KhLf0xQyqKFmha7Bq4k%2BR02ofE/IwwQrqo36Qqkpc4%3D"
 },
 {
   "title": "Grana Padano",
   "price": "$5.50",
   "description": "A grainy, hard cheese that's similar to Parmesan but milder in flavor.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-w5BkY5uUzb9LU8rR8Qz56kas.png?st=2023-10-17T11%3A07%3A09Z&se=2023-10-17T13%3A07%3A09Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A19%3A20Z&ske=2023-10-17T13%3A19%3A20Z&sks=b&skv=2021-08-06&sig=8Gf4hEwZ0dsEMDFl1Vf%2Bq6%2BRiO0jG%2B863NVAHxHptWQ%3D"
 },
 {
   "title": "Manchego Cheese",
   "price": "$6.00",
   "description": "A Spanish hard cheese with a rich and nutty flavor.",
   "category": "Dairy",
-  "emoji": "🧀"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-UNHxJUdkFT4EBEKItPyU5MQG.png?st=2023-10-17T11%3A07%3A16Z&se=2023-10-17T13%3A07%3A16Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A34%3A38Z&ske=2023-10-17T13%3A34%3A38Z&sks=b&skv=2021-08-06&sig=KZmiXIjP1Z6/%2B9BaPCkwSKfHHU0PuQhQ9ZtN5WncgcI%3D"
 },
 {
-  "title": "Eggs",
-  "price": "$2.00",
-  "description": "Rich in protein and versatile, eggs are used in a variety of culinary applications.",
+  "title": "Pecorino Romano",
+  "price": "$5.00",
+  "description": "A salty, hard cheese made from sheep's milk, perfect for grating over dishes.",
   "category": "Dairy",
-  "emoji": "🥚"
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-PRWbXOWkQEWIO4OTdFnBNDTN.png?st=2023-10-17T11%3A07%3A22Z&se=2023-10-17T13%3A07%3A22Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T08%3A26%3A18Z&ske=2023-10-18T08%3A26%3A18Z&sks=b&skv=2021-08-06&sig=YR3aJmGlLjVgGKHK93jh56dD4puUXIuNrtww6rRh94U%3D"
 },
 {
-  "title": "Tofu",
-  "price": "$2.00",
-  "description": "Blended silken tofu can act as a binder in various dishes.",
-  "category": "Vegan",
-  "emoji": "🍲"
+  "title": "Asiago Cheese",
+  "price": "$4.50",
+  "description": "Semi-hard cheese with a nutty flavor, great for shaving or grating.",
+  "category": "Dairy",
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-rnbKjFD8ZA9nrU95plp6N0xG.png?st=2023-10-17T11%3A07%3A29Z&se=2023-10-17T13%3A07%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T05%3A26%3A16Z&ske=2023-10-18T05%3A26%3A16Z&sks=b&skv=2021-08-06&sig=uOxCPTqN3NhQnvh9ewcPSBqIuPktf3zbZ%2BvxLGNmbA4%3D"
 },
 {
-  "title": "Flaxseed Meal",
-  "price": "$1.50",
-  "description": "Mix with water to create a gel-like consistency that can replace eggs.",
-  "category": "Vegan",
-  "emoji": "🥚"
-},
-{
-  "title": "Chia Seeds",
-  "price": "$2.50",
-  "description": "Mix with water to form a gel that can be used as an egg substitute.",
-  "category": "Vegan",
-  "emoji": "🥚"
+  "title": "Parmesan cheese",
+  "price": "$4.00",
+  "description": "A hard, granular cheese originating from Italy, known for its rich umami flavor.",
+  "category": "Dairy",
+  "emoji": "🧀",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-6B0ZFTubJsESA1J1kvbknYzB.png?st=2023-10-17T11%3A07%3A35Z&se=2023-10-17T13%3A07%3A35Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A29%3A34Z&ske=2023-10-17T13%3A29%3A34Z&sks=b&skv=2021-08-06&sig=YBFbjJhiL2q1mMzG0%2BnUNxLb4k4VC4B5bIH8fQVnUU8%3D"
 },
 {
   "title": "Apple Sauce",
   "price": "$2.00",
   "description": "A sweet alternative that can replace eggs in certain recipes.",
   "category": "Baking",
-  "emoji": "🥚"
+  "emoji": "🥚",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-s33E2iIi60xVk7lkbPH0bcoK.png?st=2023-10-17T11%3A07%3A42Z&se=2023-10-17T13%3A07%3A42Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A13%3A46Z&ske=2023-10-18T06%3A13%3A46Z&sks=b&skv=2021-08-06&sig=j3iqhks7umITyQ3w/EhAQP7Cu9sIahd1JgSuX5/XxWw%3D"
 },
 {
-  "title": "Onion",
-  "price": "$1.00",
-  "description": "A kitchen staple, onions provide depth and flavor to a myriad of dishes.",
-  "category": "Vegetables",
-  "emoji": "🧅"
+  "title": "Eggs",
+  "price": "$2.00",
+  "description": "Rich in protein and versatile, eggs are used in a variety of culinary applications.",
+  "category": "Dairy",
+  "emoji": "🥚",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-iFcKghm71qOvCA7CsWsF4lol.png?st=2023-10-17T11%3A07%3A48Z&se=2023-10-17T13%3A07%3A48Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A21%3A29Z&ske=2023-10-17T13%3A21%3A29Z&sks=b&skv=2021-08-06&sig=5fkAsOvxaQYANyDdWFLTEtMPssdw4OPrOk6yggv4Pf0%3D"
+},
+{
+  "title": "Tofu",
+  "price": "$2.00",
+  "description": "Blended silken tofu can act as a binder in various dishes.",
+  "category": "Vegan",
+  "emoji": "🍲",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-oaYtIXaSdY1ygTeyGAqt522i.png?st=2023-10-17T11%3A07%3A55Z&se=2023-10-17T13%3A07%3A55Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A34%3A15Z&ske=2023-10-17T13%3A34%3A15Z&sks=b&skv=2021-08-06&sig=nZFV/TgxN%2B1KG1tDsYI7BOA8EtywLuMsFCNBi9/TkKE%3D"
+},
+{
+  "title": "Flaxseed Meal",
+  "price": "$1.50",
+  "description": "Mix with water to create a gel-like consistency that can replace eggs.",
+  "category": "Vegan",
+  "emoji": "🥚",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-ugsrF5Kqs7v8KiOGpyf2LfEm.png?st=2023-10-17T11%3A08%3A02Z&se=2023-10-17T13%3A08%3A02Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T02%3A29%3A00Z&ske=2023-10-18T02%3A29%3A00Z&sks=b&skv=2021-08-06&sig=ZuZbEAcSUMJslEmZAQAIixKwxJb2ccX%2Bb73i4ebnxWc%3D"
+},
+{
+  "title": "Chia Seeds",
+  "price": "$2.50",
+  "description": "Mix with water to form a gel that can be used as an egg substitute.",
+  "category": "Vegan",
+  "emoji": "🥚",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-qr5z6o8bMnilgdghFXoXavJs.png?st=2023-10-17T11%3A08%3A09Z&se=2023-10-17T13%3A08%3A09Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T05%3A15%3A05Z&ske=2023-10-18T05%3A15%3A05Z&sks=b&skv=2021-08-06&sig=EUDWBR6tqimWvD6Ob9W0UfHddV3fgfbFyr4HhLqWj/Q%3D"
 },
 {
   "title": "Shallots",
   "price": "$2.00",
   "description": "Milder and sweeter than regular onions, they add a delicate flavor.",
   "category": "Produce",
-  "emoji": "🧅"
-},
-{
-  "title": "Green Onions",
-  "price": "$1.50",
-  "description": "Milder in flavor, green onions or scallions are great for garnishing.",
-  "category": "Vegetables",
-  "emoji": "🌱"
+  "emoji": "🧅",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-NeTx7qXzh3f88iRy5AtRpJz2.png?st=2023-10-17T11%3A08%3A15Z&se=2023-10-17T13%3A08%3A15Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A57%3A09Z&ske=2023-10-18T09%3A57%3A09Z&sks=b&skv=2021-08-06&sig=2RIVMl%2BiYnkR5wZcDMZT09dJ2AiaH1llD7VwwWI1vCo%3D"
 },
 {
   "title": "Red Onion",
   "price": "$1.20",
   "description": "Sweeter and more vibrant in color, red onions add a pop to dishes.",
   "category": "Vegetables",
-  "emoji": "🔴"
+  "emoji": "🔴",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-rbEoFqOFg9sAHRfKXnS2DzLd.png?st=2023-10-17T11%3A08%3A21Z&se=2023-10-17T13%3A08%3A21Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A58%3A08Z&ske=2023-10-17T13%3A58%3A08Z&sks=b&skv=2021-08-06&sig=QxwtTBdMVxqoX5E51Tvpxt8fQLp2rbMqqFgJmH14aAE%3D"
+},
+{
+  "title": "Onion",
+  "price": "$1.00",
+  "description": "A kitchen staple, onions provide depth and flavor to a myriad of dishes.",
+  "category": "Vegetables",
+  "emoji": "🧅",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-W3Wr1Pt7T1mfMU9KcJTnokRK.png?st=2023-10-17T11%3A08%3A28Z&se=2023-10-17T13%3A08%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A31%3A32Z&ske=2023-10-17T13%3A31%3A32Z&sks=b&skv=2021-08-06&sig=mllQIHheR%2BjR/zmHSK9YQtAqg0tl0yY2H8JZLmSiygo%3D"
+},
+{
+  "title": "Green Onions",
+  "price": "$1.50",
+  "description": "Milder in flavor, green onions or scallions are great for garnishing.",
+  "category": "Vegetables",
+  "emoji": "🌱",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-63obj3YAWDELmh8kVTe4mjUf.png?st=2023-10-17T11%3A08%3A34Z&se=2023-10-17T13%3A08%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T04%3A58%3A37Z&ske=2023-10-18T04%3A58%3A37Z&sks=b&skv=2021-08-06&sig=7TZAfQeX5QhbZuB8ZPzB0m1UxVetL1Dg3WSXLnl0KR8%3D"
 },
 {
   "title": "Leeks",
   "price": "$2.50",
   "description": "With a light onion flavor, leeks are great when sautéed or used in soups.",
   "category": "Produce",
-  "emoji": "🍲"
-},
-{
-  "title": "Garlic",
-  "price": "$0.50",
-  "description": "Aromatic and flavorful, garlic is a foundational ingredient in many cuisines.",
-  "category": "Produce",
-  "emoji": "🧄"
-},
-{
-  "title": "Garlic Powder",
-  "price": "$2.00",
-  "description": "A convenient dried version of garlic that provides a milder flavor.",
-  "category": "Spices",
-  "emoji": "🧄"
+  "emoji": "🍲",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-wFOXnffh33ealy4wSOwKFHv1.png?st=2023-10-17T11%3A08%3A41Z&se=2023-10-17T13%3A08%3A41Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A36%3A05Z&ske=2023-10-17T13%3A36%3A05Z&sks=b&skv=2021-08-06&sig=Mo5yaz4k8KFvEmu8b4dooqMhAoJ3Og8e3towp1RNmUw%3D"
 },
 {
   "title": "Garlic Flakes",
   "price": "$2.50",
   "description": "Dried garlic flakes can be rehydrated or used as they are for a burst of garlic flavor.",
   "category": "Spices",
-  "emoji": "🧄"
+  "emoji": "🧄",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-kmpwKciIGGdNLp2jXpCGbl57.png?st=2023-10-17T11%3A08%3A47Z&se=2023-10-17T13%3A08%3A47Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T22%3A48%3A51Z&ske=2023-10-17T22%3A48%3A51Z&sks=b&skv=2021-08-06&sig=tP3QGhPabWj2%2BsfOdUaePL1ZWg5icOJn8p2BotlC56A%3D"
+},
+{
+  "title": "Garlic Powder",
+  "price": "$2.00",
+  "description": "A convenient dried version of garlic that provides a milder flavor.",
+  "category": "Spices",
+  "emoji": "🧄",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-804fPpoMjufMy3VeA2zyxkT2.png?st=2023-10-17T11%3A08%3A54Z&se=2023-10-17T13%3A08%3A54Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T11%3A25%3A00Z&ske=2023-10-18T11%3A25%3A00Z&sks=b&skv=2021-08-06&sig=zqfNzvVFols7wLXawT5MxIJ6jFbPBvQ16%2B564sYLH94%3D"
 },
 {
   "title": "Garlic Paste",
   "price": "$3.00",
   "description": "A smooth blend of garlic, perfect for adding to sauces or marinades.",
   "category": "Condiments",
-  "emoji": "🧄"
+  "emoji": "🧄",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-n7ZIcfzhqsQQ5YQHw6q1nS5w.png?st=2023-10-17T11%3A09%3A01Z&se=2023-10-17T13%3A09%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T07%3A38%3A35Z&ske=2023-10-18T07%3A38%3A35Z&sks=b&skv=2021-08-06&sig=Pj6jooJb4fIy6I7oWwAh5t7GRdE3OmhcH5pJoK17Fys%3D"
 },
 {
-  "title": "Olive Oil",
-  "price": "$6.00",
-  "description": "A staple in Mediterranean cuisine, olive oil is known for its heart-healthy properties.",
-  "category": "Condiments",
-  "emoji": "🍽️"
-},
-{
-  "title": "Canola Oil",
-  "price": "$3.50",
-  "description": "A neutral-tasting oil suitable for various cooking methods.",
-  "category": "Condiments",
-  "emoji": "🍳"
-},
-{
-  "title": "Coconut Oil",
-  "price": "$5.00",
-  "description": "A fragrant oil ideal for sautéing and baking.",
-  "category": "Condiments",
-  "emoji": "🍳"
-},
-{
-  "title": "Avocado Oil",
-  "price": "$7.00",
-  "description": "Known for its high smoke point, it's great for high-heat cooking.",
-  "category": "Condiments",
-  "emoji": "🍳"
+  "title": "Garlic",
+  "price": "$0.50",
+  "description": "Aromatic and flavorful, garlic is a foundational ingredient in many cuisines.",
+  "category": "Produce",
+  "emoji": "🧄",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-M78bGekQmiNQZqUnTelq9KYl.png?st=2023-10-17T11%3A09%3A08Z&se=2023-10-17T13%3A09%3A08Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A00%3A59Z&ske=2023-10-18T10%3A00%3A59Z&sks=b&skv=2021-08-06&sig=oMOPIXbl8C2UwAB2CYzKCsIs0D7mE/uo8panT3IhP8o%3D"
 },
 {
   "title": "Grapeseed Oil",
   "price": "$6.50",
   "description": "A light, neutral oil that's good for dressings and sautéing.",
   "category": "Condiments",
-  "emoji": "🥗"
+  "emoji": "🥗",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-jB0BbKGgMwrKUNY9OMBO5p3Z.png?st=2023-10-17T11%3A09%3A14Z&se=2023-10-17T13%3A09%3A14Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T01%3A49%3A25Z&ske=2023-10-18T01%3A49%3A25Z&sks=b&skv=2021-08-06&sig=FKD1s1Hct6GxfQqYIE/gOgHa03v/cZ9f5SHAXu%2B7d9o%3D"
 },
 {
-  "title": "Salt",
-  "price": "$1.00",
-  "description": "An essential seasoning that enhances the flavor of dishes.",
-  "category": "Spices",
-  "emoji": "🧂"
+  "title": "Canola Oil",
+  "price": "$3.50",
+  "description": "A neutral-tasting oil suitable for various cooking methods.",
+  "category": "Condiments",
+  "emoji": "🍳",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-scjMahNg1ECkmYgfvpBudHqm.png?st=2023-10-17T11%3A09%3A21Z&se=2023-10-17T13%3A09%3A21Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A17%3A36Z&ske=2023-10-18T10%3A17%3A36Z&sks=b&skv=2021-08-06&sig=sen/fapQXMVdQleww0KLvOyQ2/fRnzwoLq98zeaED50%3D"
+},
+{
+  "title": "Coconut Oil",
+  "price": "$5.00",
+  "description": "A fragrant oil ideal for sautéing and baking.",
+  "category": "Condiments",
+  "emoji": "🍳",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-GNVx3uRSwa0eRr6sJECHWqQY.png?st=2023-10-17T11%3A09%3A29Z&se=2023-10-17T13%3A09%3A29Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A59%3A22Z&ske=2023-10-18T09%3A59%3A22Z&sks=b&skv=2021-08-06&sig=XT0xGeXL1Euk1hx/MeeR8RAjMQlU1YJZkx16UI/NQII%3D"
+},
+{
+  "title": "Olive Oil",
+  "price": "$6.00",
+  "description": "A staple in Mediterranean cuisine, olive oil is known for its heart-healthy properties.",
+  "category": "Condiments",
+  "emoji": "🍽️",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-zj2L2R5tradF1Rj4ZzqTY7u4.png?st=2023-10-17T11%3A09%3A36Z&se=2023-10-17T13%3A09%3A36Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A29%3A54Z&ske=2023-10-17T13%3A29%3A54Z&sks=b&skv=2021-08-06&sig=bXVm88IAaN6HAVkwb8Q5RWnbvipsnmkaIyMsl2Y3x%2B0%3D"
+},
+{
+  "title": "Avocado Oil",
+  "price": "$7.00",
+  "description": "Known for its high smoke point, it's great for high-heat cooking.",
+  "category": "Condiments",
+  "emoji": "🍳",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-qHcRhT4yedMcaIGs0BvOjVVp.png?st=2023-10-17T11%3A09%3A43Z&se=2023-10-17T13%3A09%3A43Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T08%3A38%3A27Z&ske=2023-10-18T08%3A38%3A27Z&sks=b&skv=2021-08-06&sig=uIPEFx6ZeLoQ0gTFeW8iS89nUh%2Ba%2BrbtMKvyQur0DJc%3D"
 },
 {
   "title": "Himalayan Pink Salt",
   "price": "$2.50",
   "description": "A natural and unrefined salt with a slightly earthy flavor.",
   "category": "Spices",
-  "emoji": "🧂"
+  "emoji": "🧂",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-brYa79p63yEv4yRScOHB7DDv.png?st=2023-10-17T11%3A09%3A49Z&se=2023-10-17T13%3A09%3A49Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T05%3A38%3A44Z&ske=2023-10-18T05%3A38%3A44Z&sks=b&skv=2021-08-06&sig=5KNtpRIImGZZ8YupDtZOJ%2B/VUhNpfRG65b53xcjpUOM%3D"
 },
 {
   "title": "Sea Salt",
   "price": "$2.00",
   "description": "Derived from evaporated seawater, it provides a briny touch.",
   "category": "Spices",
-  "emoji": "🌊"
+  "emoji": "🌊",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-QaBZjk6oxSbORlgK42S2iGAV.png?st=2023-10-17T11%3A09%3A56Z&se=2023-10-17T13%3A09%3A56Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A27%3A25Z&ske=2023-10-17T13%3A27%3A25Z&sks=b&skv=2021-08-06&sig=SMtoNu0sl8KtKQ%2BESzHaxNBEOprjk31qiW5jfzzL%2BNo%3D"
 },
 {
   "title": "Kosher Salt",
   "price": "$1.50",
   "description": "A coarse salt without additives, commonly used in cooking.",
   "category": "Spices",
-  "emoji": "🧂"
+  "emoji": "🧂",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-iT4UA4BddGjpbldr9cbbT41m.png?st=2023-10-17T11%3A10%3A03Z&se=2023-10-17T13%3A10%3A03Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A57%3A15Z&ske=2023-10-18T09%3A57%3A15Z&sks=b&skv=2021-08-06&sig=9GIA%2BbAH9dLVjgSib/E4HasNVm9JVCesXaWAKXWU9Jc%3D"
 },
 {
   "title": "Black Salt (Kala Namak)",
   "price": "$2.00",
   "description": "A sulfurous salt often used in South Asian cuisine, especially vegan dishes to mimic an eggy flavor.",
   "category": "Spices",
-  "emoji": "🧂"
+  "emoji": "🧂",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-w0rfL9nXlyH1OteabK4sj0OD.png?st=2023-10-17T11%3A10%3A10Z&se=2023-10-17T13%3A10%3A10Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T04%3A50%3A47Z&ske=2023-10-18T04%3A50%3A47Z&sks=b&skv=2021-08-06&sig=0pqrxV1yDcNsnIEvt94ykQfOknmBgMCs3zHMRvC8N60%3D"
 },
 {
-  "title": "Black Pepper",
-  "price": "$2.00",
-  "description": "A versatile spice known for its sharp and mildly spicy flavor.",
+  "title": "Salt",
+  "price": "$1.00",
+  "description": "An essential seasoning that enhances the flavor of dishes.",
   "category": "Spices",
-  "emoji": "🌶️"
-},
-{
-  "title": "White Pepper",
-  "price": "$2.50",
-  "description": "Milder than black pepper, it's often used in light-colored dishes.",
-  "category": "Spices",
-  "emoji": "🌶️"
+  "emoji": "🧂",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-3U8tFeeK9wMF9BiwxlDjXDXC.png?st=2023-10-17T11%3A10%3A17Z&se=2023-10-17T13%3A10%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T02%3A53%3A52Z&ske=2023-10-18T02%3A53%3A52Z&sks=b&skv=2021-08-06&sig=Zl3rKB3gS7isNcv0Ji3UcXC6YPLwOTD/DlFAqpCrX5U%3D"
 },
 {
   "title": "Cayenne Pepper",
   "price": "$2.00",
   "description": "A spicy chili pepper, ground into powder. Adds heat to dishes.",
   "category": "Spices",
-  "emoji": "🌶️"
+  "emoji": "🌶️",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-6qCmbNScM0V41Eu7pGJmzSwD.png?st=2023-10-17T11%3A10%3A24Z&se=2023-10-17T13%3A10%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T13%3A24%3A39Z&ske=2023-10-17T13%3A24%3A39Z&sks=b&skv=2021-08-06&sig=lTKCuqIB3VaVsd6J8EL1WLNgrmNqdKTsJv802qBhpJs%3D"
+},
+{
+  "title": "White Pepper",
+  "price": "$2.50",
+  "description": "Milder than black pepper, it's often used in light-colored dishes.",
+  "category": "Spices",
+  "emoji": "🌶️",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-Fqa2tuNQc5JdUPFrx0XPVnCe.png?st=2023-10-17T11%3A10%3A31Z&se=2023-10-17T13%3A10%3A31Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T09%3A54%3A56Z&ske=2023-10-18T09%3A54%3A56Z&sks=b&skv=2021-08-06&sig=CuI7pkvPmQEzYvo361jS%2BN9V1ews7he/z62zdissHlU%3D"
 },
 {
   "title": "Crushed Red Pepper Flakes",
   "price": "$1.50",
   "description": "Adds a spicy kick to dishes, commonly used as a pizza topping.",
   "category": "Spices",
-  "emoji": "🌶️"
+  "emoji": "🌶️",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-RcXlsQa9G0KgAzAOxgwsOHNN.png?st=2023-10-17T11%3A10%3A37Z&se=2023-10-17T13%3A10%3A37Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T05%3A53%3A40Z&ske=2023-10-18T05%3A53%3A40Z&sks=b&skv=2021-08-06&sig=AxmmMbFCY/wZIk03kd8%2BcXHjYZW2UXfp0Cp6Xxb4ki4%3D"
+},
+{
+  "title": "Black Pepper",
+  "price": "$2.00",
+  "description": "A versatile spice known for its sharp and mildly spicy flavor.",
+  "category": "Spices",
+  "emoji": "🌶️",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-xhLucSHBIdwnvzKNgSFyEvxv.png?st=2023-10-17T11%3A10%3A44Z&se=2023-10-17T13%3A10%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T22%3A04%3A18Z&ske=2023-10-17T22%3A04%3A18Z&sks=b&skv=2021-08-06&sig=bZnNigmEyfU1y8Kx1YCiZi0Pxv4A%2BMLYQVlcbVcKcik%3D"
 },
 {
   "title": "Sichuan (or Szechuan) Peppercorns",
   "price": "$3.00",
   "description": "Known for their unique tingling sensation, they're used in Chinese cuisine.",
   "category": "Spices",
-  "emoji": "🥡"
-},
-{
-  "title": "Banana",
-  "price": "$0.60",
-  "description": "A sweet and portable fruit, packed with essential vitamins.",
-  "category": "Produce",
-  "emoji": "🍌"
+  "emoji": "🥡",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-ypMf4NLr0HCAkGczZby8wVYn.png?st=2023-10-17T11%3A10%3A50Z&se=2023-10-17T13%3A10%3A50Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T06%3A39%3A07Z&ske=2023-10-18T06%3A39%3A07Z&sks=b&skv=2021-08-06&sig=9MeRyQnOLJDEC6B2uxF6XRnljs8y7ax/Hy4YoVSqbjA%3D"
 },
 {
   "title": "Milk",
   "price": "$2.50",
   "description": "A calcium-rich dairy product, perfect for drinking or cooking.",
   "category": "Dairy",
-  "emoji": "🥛"
+  "emoji": "🥛",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-PSQ9roaYDvAWaa0uMHSV7KVD.png?st=2023-10-17T11%3A10%3A57Z&se=2023-10-17T13%3A10%3A57Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T08%3A47%3A37Z&ske=2023-10-18T08%3A47%3A37Z&sks=b&skv=2021-08-06&sig=VFv/v1f2pzS27MG9V60zBKff9cMszBBD3cj32sL4S0A%3D"
 },
 {
   "title": "Bread",
   "price": "$2.00",
   "description": "Freshly baked, perfect for sandwiches or toast.",
   "category": "Bakery",
-  "emoji": "🍞"
+  "emoji": "🍞",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-iGvr0T3Wl4NoOnykrYclFRFd.png?st=2023-10-17T11%3A11%3A03Z&se=2023-10-17T13%3A11%3A03Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T10%3A10%3A01Z&ske=2023-10-18T10%3A10%3A01Z&sks=b&skv=2021-08-06&sig=MP6YEZNZQ1hpJOz3pAtA9gPveO2L558HAtTyc%2Bg5Q7I%3D"
+},
+{
+  "title": "Banana",
+  "price": "$0.60",
+  "description": "A sweet and portable fruit, packed with essential vitamins.",
+  "category": "Produce",
+  "emoji": "🍌",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-WGJ33eyAfOFE9viRFkbHGmNl.png?st=2023-10-17T11%3A11%3A10Z&se=2023-10-17T13%3A11%3A10Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T07%3A57%3A10Z&ske=2023-10-18T07%3A57%3A10Z&sks=b&skv=2021-08-06&sig=YNm8VZK09SoztvWwXS5wWKyn1jYmDknmUBaZlfBf9EQ%3D"
 },
 {
   "title": "Apple",
   "price": "$1.00",
   "description": "Crisp and juicy, great for snacking or baking.",
   "category": "Produce",
-  "emoji": "🍏"
+  "emoji": "🍏",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-8XWBYjtI8unlTt9j7oN97xJC.png?st=2023-10-17T11%3A11%3A17Z&se=2023-10-17T13%3A11%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T00%3A05%3A14Z&ske=2023-10-18T00%3A05%3A14Z&sks=b&skv=2021-08-06&sig=HcdteT753gPBESUPFN/jvOW6rzsKAKS/gI6x6uoj0w4%3D"
 },
 {
   "title": "Orange",
   "price": "3.99$",
   "description": "Great as a juice and vitamin",
   "category": "Produce",
-  "emoji": "🍊"
+  "emoji": "🍊",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-qzQuP90INxlYoDWeAdyLun4Y.png?st=2023-10-17T11%3A11%3A23Z&se=2023-10-17T13%3A11%3A23Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-16T20%3A45%3A47Z&ske=2023-10-17T20%3A45%3A47Z&sks=b&skv=2021-08-06&sig=Pt8%2BOp0ZDPf7KQrdVfIOdGuMt%2BLKwxGrtIfBcL02i50%3D"
 },
 {
   "title": "Sugar",
   "price": "1.00",
   "description": "very sweet substance",
   "category": "Spices",
-  "emoji": "🍰"
+  "emoji": "🍰",
+  "process": true,
+  "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-FviEWnS8fFfCIMoJlhJKXk14/user-x4uf7Bxg3RZrjMQaRg3oe1qC/img-CYygolPuzxOUSp0VIBfhfFeo.png?st=2023-10-17T11%3A11%3A30Z&se=2023-10-17T13%3A11%3A30Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-10-17T07%3A19%3A42Z&ske=2023-10-18T07%3A19%3A42Z&sks=b&skv=2021-08-06&sig=H/9GOZumLdBHuuMOsPiSCJSUPNaDBYR705dNNY2uftg%3D"
 }]

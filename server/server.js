@@ -68,6 +68,7 @@ app.get('/products', async (req, res) => {
                         title: '$title',
                         description: '$description',
                         emoji: '$emoji',
+                        imageUrl : '$imageUrl',
                         price: '$price'
                     },
                 },
@@ -124,6 +125,7 @@ app.get('/products/search', async (req, res) => {
                             $push: {
                                 title: '$title',
                                 description: '$description',
+                                imageUrl : '$imageUrl',
                                 emoji: '$emoji',
                                 price: '$price'
                             },
@@ -238,7 +240,7 @@ app.post('/aiSearch', async (req, res) => {
             }
         })),
         { $group: { _id: "$searchTerm", products: { $push: "$$ROOT" } } },
-        { $project: { "_id": 0, "category": "$_id", "products.title": 1, "products.description": 1,"products.emoji" : 1, "products.price": 1 } }
+        { $project: { "_id": 0, "category": "$_id", "products.title": 1, "products.description": 1,"products.emoji" : 1, "products.imageUrl" : 1,"products.price": 1 } }
     ];
 
     // Execute aggregation query
