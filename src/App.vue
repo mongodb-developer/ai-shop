@@ -36,9 +36,10 @@
        <div class="products" :class="{ added: catProduct.isAdded }" v-for="catProduct in product.products" :key="product.title">
          <div class="product-info" >
            <h3>{{ catProduct.title }}</h3>
-           <!-- <div class="emoji">{{catProduct.emoji}}</div> -->
+           <!--  -->
            <div class="product-detail"><p>{{ catProduct.description }}</p>
-           <img class="product-image" :src="catProduct.imageUrl" />
+           <!-- <img class="product-image" :src="catProduct.imageUrl" /> -->
+           <div class="emoji">{{catProduct.emoji}}</div>
           </div>
            <p class="price"><b>price: </b>{{ catProduct.price }}</p>
            <button v-if="!catProduct.isAdded" @click="addToCart(catProduct)">Add to cart</button>
