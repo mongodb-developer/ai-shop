@@ -150,7 +150,10 @@ app.post('/products/addToCart', async (req, res) => {
     res.json({ message: 'Product added to cart' });
   
 });
+
 app.post('/aiSearch', async (req, res) => {
+
+    try {
     // Connect to MongoDB
     db = await connectToDb();
     
@@ -161,9 +164,10 @@ app.post('/aiSearch', async (req, res) => {
     const llm = new OpenAI({ 
        
         openAIApiKey: process.env.OPEN_AI_KEY,
-        modelName: "gpt-3.5-turbo-0613",
-        temperature: 0 
+        modelName: "gpt-4-1106-preview",
+        temperature: 0
     });
+    
 
     // Create a structured output parser using the Zod schema
     const outputParser = StructuredOutputParser.fromZodSchema(schema);
@@ -171,7 +175,7 @@ app.post('/aiSearch', async (req, res) => {
     
     // Create a prompt template
     const prompt = new PromptTemplate({
-        template: "Build a user grocery list in English as best as possible.\n{format_instructions}\n possible category {categories}\n{query}",
+    template: "Build a user grocery list in English as best as possible, if all the products does not fit the categories output empty list, however if some does add only those. \n{format_instructions}\n possible category {categories}\n{query}. Don't output the schema just the json of the list",
         inputVariables: ["query", "categories"],
         partialVariables: { format_instructions: formatInstructions },
     });
@@ -189,10 +193,16 @@ app.post('/aiSearch', async (req, res) => {
     // Call the OpenAI model
     const response = await llm.call(input);
     const responseDoc = await outputParser.parse(response);
+   
     let shoppingList = responseDoc.shopping_list;
 
     // Embed the shopping list
     shoppingList = await placeEmbeddings(shoppingList);
+
+    if (shoppingList.length === 0) {
+        res.json({ "result": [], "searchList": [], prompt: input, pipeline: [] });
+        return;
+    }
     
     // Construct aggregation query for searching products based on shopping list
     const aggregationQuery = [
@@ -202,12 +212,6 @@ app.post('/aiSearch', async (req, res) => {
                 "knnBeta": {
                     "vector": shoppingList[0].embeddings,
                     "path": "embeddings",
-                    // "filter": {
-                    //     "text": {
-                    //         "path": "category",
-                    //         "query": shoppingList[0].category
-                    //     }
-                    // },
                     "k": 20
                 }
             }
@@ -223,12 +227,6 @@ app.post('/aiSearch', async (req, res) => {
                             "index": "default",
                             "knnBeta": {
                                 "vector": item.embeddings,
-                                // "filter": {
-                                //     "text": {
-                                //         "path": "category",
-                                //         "query": item.category
-                                //     }
-                                // },
                                 "path": "embeddings",
                                 "k": 20
                             }
@@ -249,6 +247,11 @@ app.post('/aiSearch', async (req, res) => {
     
     // Respond with results
     res.json({ "result": result, "searchList": shoppingList, prompt: input, pipeline: aggregationQuery });
+    }
+    catch (err) {
+        console.log(err);
+        res.status(500).json({ "result": `There was an erorr: ${err.message}`,prompt: input, error: err.message });
+    }
 });
 
 app.listen(PORT);
