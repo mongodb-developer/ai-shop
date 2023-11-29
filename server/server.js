@@ -164,7 +164,7 @@ app.post('/aiSearch', async (req, res) => {
     const llm = new OpenAI({ 
        
         openAIApiKey: process.env.OPEN_AI_KEY,
-        modelName: "gpt-4-1106-preview",
+        modelName: "gpt-4",
         temperature: 0
     });
     
@@ -206,17 +206,13 @@ app.post('/aiSearch', async (req, res) => {
     
     // Construct aggregation query for searching products based on shopping list
     const aggregationQuery = [
-        {
-            "$search": {
+          { "$vectorSearch": {
                 "index": "default",
-                "knnBeta": {
-                    "vector": shoppingList[0].embeddings,
-                    "path": "embeddings",
-                    "k": 20
-                }
-            }
+                "queryVector": shoppingList[0].embeddings,
+                "path": "embeddings",
+                "numCandidates": 20,
+                "limit": 3
         },
-        {$limit: 3},
         { $addFields: { "searchTerm": shoppingList[0].product } },
         ...shoppingList.slice(1).map((item) => ({
             $unionWith: {
