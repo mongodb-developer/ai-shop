@@ -212,6 +212,7 @@ app.post('/aiSearch', async (req, res) => {
                 "path": "embeddings",
                 "numCandidates": 20,
                 "limit": 3
+               }
         },
         { $addFields: { "searchTerm": shoppingList[0].product } },
         ...shoppingList.slice(1).map((item) => ({
